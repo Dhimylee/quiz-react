@@ -6,8 +6,11 @@
 
 <img width="967" alt="Captura de Tela 2023-05-10 às 21 20 02" src="https://github.com/Dhimylee/quiz-react/assets/104266954/6c54fed4-7653-485e-8539-86ec85f2bd1f">
 
+
 ### :rotating_light: Descrição:
 <p align="justify">Quiz com React.js para iniciantes.</p>
+
+<p align="justify">Para rodar a aplicação, no terminal entre na pasta raiz e insira o seguinte comando : npm run dev</p>
 
 ### :computer: Matheus Battisti - Hora de Codar
 
